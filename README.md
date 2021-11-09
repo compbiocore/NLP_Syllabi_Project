@@ -75,6 +75,7 @@ Once we had a working docker image of the interactive dashboard on a publicly av
 
 # CBC Project Information 
 
+```
 title: NLP_Syllabi_Project
 tags: natural language processing, race, social science 
 analysts: Jordan Lawson 
@@ -82,6 +83,8 @@ git_repo_url: https://github.com/compbiocore/NLP_Syllabi_Project
 resources_used: Python, Docker, Google Cloud Platform 
 summary: An analysis of how racial issues are discussed in courses at Brown 
 project_id: 
+```
+
 
  
  
